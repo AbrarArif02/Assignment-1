@@ -437,3 +437,29 @@ body {
     font-size: 20px;
     color: #555;
 }
+
+.footer {
+    background-color: #FFFFFF;
+    padding: 30px 20px;
+    text-align: center;
+    border-top: 1px solid #E0E0E0;
+}
+
+.footer h3 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 20px;
+}
+
+.social-icons a img {
+    width: 30px;
+    height: 30px;
+}
